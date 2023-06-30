@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+	<!-- Set the title here -->
+    <title>Recipe for Masala Tea</title>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" /> 
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+	<body>
+		<div id="container"><!-- Add your header here -->
+		<header>
+		    <h1>How to make MASALA Tea</h1>
+		    	
+		    <img src="https://codeinstitute.s3-eu-west-1.amazonaws.com/5DCC/images/Content/oSVKMED.jpg" alt="A man drinking tea">
+		    
+            <p>Masala chai also known simply as chai, is an Indian beverage popular throughout South Asia. Masala Chai or Masala Tea is an Indian spiced tea made with whole spices, water, black tea and milk. At the very least, tea is a flavourful way of getting enough fluid into your body each day. On top of that, studies have shown teas can help protect your teeth and your heart
+            </p>
+		</header>
+		<!-- Add a section here -->
+		<section onmouseover="ingredientsHover()" onmouseout="ingredientsNormal()">
+		    <h2>ingredients <i id="ingredients" class="fa fa-coffee" aria-hidden="true"></i></h2>
+		    <ul>
+		       <li>Water</li>
+		       <li>Milk</li>
+		       <li>Cardmom powder</li>
+		       <li>Clove powder</li>
+               <li>Ginger 1 inch</li>
+               <li>Tea powder</li>
+               <li>Sugar</li>
+	    	</ul>
+	    </section>
+		<!-- Add a section here -->
+        <section onmouseover="preparationHover()" onmouseout="preparationNormal()">
+            <h2>preparation <i id="preparation" class="fa fa-check-circle" aria-hidden="true"></i></h2>
+            <ol>
+                <li>Take a saucepan. Pour 2 glasses of water and 1 glass of Milk</li>
+                <li>Put crushed Ginger to the saucepan</li>
+                <li>Put 1/2 teaspoon of cardmom powder</li>
+                <li>Put 1/4 teaspoon of clove powder</li>
+                <li>Add 2 and 1/2 spoons of sugar</li>
+                <li>Add 1 teaspoon full of tea powder</li>
+                <li>Boil everything for 10 minnutes in slow simmer mode</li>
+                <li>Sieve the Masala tea to 2 cups</li>
+                <li>Serve Masala Tea along with Biscuits or Cookies</li>
+                <li>Enjoy!!!</li>
+            </ol>    
+        </section>		
+		<!-- Add your footer here -->
+		<footer>
+		    <p>Copyright Me 2020</p>
+		</footer>
+        </div>
+		<!-- <script src="index.js"></script> -->
+		<script>
+		function ingredientsHover(){
+            document.getElementById("ingredients").style.fontSize = "300%";
+        }
+
+        function ingredientsNormal(){
+            document.getElementById("ingredients").style.fontSize = "100%";
+        }
+        
+        function preparationHover(){
+            document.getElementById("preparation").style.fontSize = "300%";
+        }
+
+        function preparationNormal(){
+            document.getElementById("preparation").style.fontSize = "100%";
+        }
+    		
+        </script>
+	</body>
+</html>
