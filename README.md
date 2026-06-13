@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **deepamaria/deepamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Deepa Maria! 👋 
 
-Dedicated **Software Engineer & Frontend Specialist** based in Munich, Germany. I bridge the gap between strong computer science fundamentals (former CS Lecturer) and modern, scalable frontend architectures. 
+Dedicated **Software Engineer & Frontend Specialist** based in Munich, Germany. I bridge the gap between strong computer science fundamentals (former Computer science Enginnering Assistant Professor) and modern, scalable frontend architectures. 
 
 With a passion for building interactive, user-friendly web applications, I focus heavily on the **React/Next.js/TypeScript** ecosystem.
 
@@ -34,13 +35,12 @@ With a passion for building interactive, user-friendly web applications, I focus
 ---
 
 ### 📊 GitHub Stats & Ecosystem
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepamaria&show_icons=true&theme=transparent" alt="Deepa's GitHub Stats" height="150" />
+  <!-- This card will isolate and display only your stats from the year 2024 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=deepamaria&show_icons=true&theme=transparent&commits_year=2024" alt="Deepa's 2024 GitHub Stats" height="150" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepamaria&layout=compact&theme=transparent" alt="Top Languages" height="150" />
 </p>
-
-*⚠️ **Note:** Remember to replace `YOUR_GITHUB_USERNAME` in the links above with your actual GitHub username to load your real-time stats graphics!*
 
 ---
 
@@ -52,6 +52,6 @@ With a passion for building interactive, user-friendly web applications, I focus
 ---
 
 ### 📫 Connect with Me
-* 💼 [Connect with me on XING]https://www.xing.com/profile/Deepa_Maria
-* 💼 [Connect with me on LinkedIn]https://www.linkedin.com/in/deepa-maria/
-* 📧 Reach out via Email: [deepamaria89@gmail.com](mailto:your.email@example.com)
+* 💼 Connect with me on XING[https://www.xing.com/profile/Deepa_Maria]
+* 💼 Connect with me on LinkedIn[https://www.linkedin.com/in/deepa-maria/]
+* 📧 Reach out via Email: [deepamaria89@gmail.com]
